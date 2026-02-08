@@ -1,18 +1,73 @@
-<h1 align="center">Hi👋, I'm LE DUC Perrine</h1>
-<h3 align="center">Student in computer Science !</h3>
+<h1 align="center">Hi 👋, I'm LE DUC Perrine</h1>
+<h3 align="center">Computer Science Student — Magistère d'informatique</h3>
 
-- 🔭 I’m currently working on [Automaton Translator](https://github.com/karuacat/Automaton-Translator)
+<h4 align="center">
+From automata theory to functional games 🧠🎮
+</h4>
 
-- 🌱 I’m currently learning **Rust and how to make a game with OCaml**
+---
 
-- 📫 How to reach me **perrine.le-duc@universite-paris-saclay.fr**
+### 👩‍🎓 About me
 
-<h3 align="left">Connect with me:</h3>
+- 🎓 **LDD3 Magistère d'informatique** student at **Université Paris-Saclay**
+- 🧠 Strong interest in **theoretical computer science**, especially  
+  **automata theory, formal languages, and abstract computational models**
+- 🌱 Currently learning **Rust** and exploring **functional game development with OCaml**
+- 🎮 Using game development as a way to deepen my understanding of functional paradigms
+- 🤝 Open to academic projects, research-oriented collaborations, and internships
+
+---
+
+### 🔭 Current project
+
+- **Automaton Translator**  
+  A tool designed to translate automata between different formal representations.  
+  The project focuses on **theoretical correctness**, **clear abstractions**, and **readability**.
+
+👉 [View the project on GitHub](https://github.com/karuacat/Automaton-Translator)
+
+---
+
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://linkedin.com/in/perrine-le-duc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perrine-le-duc" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/perrine-le-duc-229569262/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+📫 **perrine.le-duc@universite-paris-saclay.fr**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karuacat&show_icons=true&locale=en&layout=compact" alt="karuacat" /></p>
+---
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" alt="OCaml" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+</p>
+
+---
+
+### 🛠️ Tools & Concepts
+
+- Git / GitHub  
+- Linux  
+- Object-Oriented Programming  
+- Functional Programming  
+- Automata & Formal Languages  
+- Algorithmic reasoning & abstraction
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karuacat&show_icons=true&locale=en&layout=compact"
+       alt="Top languages"/>
+</p>
