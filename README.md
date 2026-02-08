@@ -11,22 +11,46 @@ Theoretical computer science · Automata · Formal languages · Functional progr
 - 🎓 **LDD3 Magistère d'informatique** student at **Université Paris-Saclay**
 - 🧠 Strong academic interest in **theoretical computer science**, in particular  
   **automata theory, formal languages, and abstract computation models**
-- 📐 Interested in **rigorous reasoning, correctness, and mathematical foundations of computer science**
+- 📐 Interested in **rigorous reasoning, correctness, and mathematical foundations**
 - 🌱 Currently learning **Rust** and exploring **functional programming through OCaml**
 - 🎯 Seeking **research-oriented internships** and advanced Master programs
 
 ---
 
-### 🔭 Featured project
+### 🎓 University project
+
+#### **OCaml Functional Game Project (Projet-PFA)**
+A university project aimed at learning **functional programming** and applying concepts from advanced functional programming coursework.
+
+- Focus on **functional paradigms**, **modularity**, and **type safety**
+- Developed as part of academic coursework using **OCaml** and toolchains such as Dune
+- Demonstrates ability to apply theory to a non-trivial program structure
+
+🔗 [GitHub repository](https://github.com/karuacat/Projet-PFA)
+
+---
+
+### 🔭 Personal projects
 
 #### **Automaton Translator**
-A theoretical computer science project aiming to translate automata between different formal representations.
+A personal theoretical computer science project translating automata between different formal representations.
 
 - Focus on **formal correctness** and **clear abstractions**
 - Designed as a pedagogical and experimental tool
-- Written with an emphasis on **readability and modularity**
+- Developed independently, outside of coursework
 
 🔗 [GitHub repository](https://github.com/karuacat/Automaton-Translator)
+
+---
+
+#### **Project Euler**
+A personal collection of mathematical and algorithmic problem solutions.
+
+- Focus on **problem solving** and **algorithmic reasoning**
+- Used as regular practice to strengthen theoretical foundations
+- Solutions developed independently, not tied to academic requirements
+
+🔗 [GitHub repository](https://github.com/karuacat/Project-Euler)
 
 ---
 
